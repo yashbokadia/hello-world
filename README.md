@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+This is Facinating
+How powerful programming can be!
